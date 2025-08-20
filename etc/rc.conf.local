@@ -1,0 +1,5 @@
+dhcpd_flags="bse0"
+pf_rules="/etc/pf.conf"
+resolvd_flags=NO
+sndiod_flags=NO
+unbound_flags=""
